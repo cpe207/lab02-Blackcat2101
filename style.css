@@ -1,0 +1,47 @@
+.header {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0.507);
+  font-style: italic;
+}
+
+.paragrap {
+  text-align: center;
+  background-color: rgba(118, 118, 118, 0.486);
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(255, 255, 255);
+  font-style: italic;
+}
+.skill-container {
+  border: solid rgba(140, 0, 0, 0.727);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+
+.skill-container > h3 {
+  color: rgb(0, 0, 0);
+  background-color: rgba(157, 0, 0, 0.611);
+  margin-bottom: auto;
+  font-style: italic;
+}
+
+body {
+  background-image: url(https://media.tenor.com/3DLDSBPczisAAAAd/chainsaw-man-denji.gif://media.tenor.com/pmxEeEDSBUYAAAAC/chainsaw-man-denji.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+/* .page {
+  text-align: center;
+  background-color: black;
+  font-style: italic;
+} */
+
+.imgcon {
+  background-image: url(https://www.instagram.com/p/Csta2_opK8NFnsvpSpMwB1ZYkG8OJ7HIIB8wmc0/);
+}
